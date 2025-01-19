@@ -5,15 +5,15 @@
     "kind": "Directory"
   },
   "applicationId": "com.kikai.myapk",
-  "variantName": "release",
+  "variantName": "debug",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
       "versionCode": 1,
-      "versionName": "2501191234",
-      "outputFile": "app-release.apk"
+      "versionName": "2501101432",
+      "outputFile": "app-debug.apk"
     }
   ],
   "elementType": "File"
