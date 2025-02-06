@@ -2,5 +2,5 @@
     private static final String GITHUB_CONTENT_BASE = "https://raw.githubusercontent.com/";
     private static final String RELEASE_APK_PATH = "app/release/app-release.apk";
     private static final String METADATA_PATH = "app/release/output-metadata.json";
-
+    "url": "https://raw.githubusercontent.com/sunresh/test/main/ognadh/app-debug.apk"
     https://tinyurl.com/ognadh
